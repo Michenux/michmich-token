@@ -1,2 +1,3 @@
-# michmich-token
+# MichMich Token
+
 For testing purpose
